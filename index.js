@@ -33,7 +33,7 @@ const ACTION_KO_TO_ENUM = new Map([
 
 // 봇의 acct (커맨드 파싱에서 @bot 멘션 제거/무시용)
 // 실제로는 네 봇 acct로 맞춰줘. 예: "mybot@your.instance"
-const BOT_ACCT = 'bot@your.instance';
+const BOT_ACCT = '@sawa_3@mastodon.social';
 
 // -----------------------------
 // 1) Character data (placeholder for 30 people)
